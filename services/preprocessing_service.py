@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  3 19:06:14 2018
 
-@author: Daniel Solá
-"""
 import numpy as np
 from resources.mappings import *
 import pandas as pd

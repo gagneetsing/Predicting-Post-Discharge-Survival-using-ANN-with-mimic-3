@@ -1,8 +1,4 @@
-"""
-MIMIC-III Project 
 
-@author: Daniel Solá
-"""
 
 AGE_QUERY = """SELECT hadm_id, EXTRACT(epoch FROM (admittime - dob))/(3600*24*365)
                AS age

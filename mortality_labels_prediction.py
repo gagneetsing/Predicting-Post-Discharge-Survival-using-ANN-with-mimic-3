@@ -1,7 +1,3 @@
-"""
-MIMIC-III Project
-@author: Daniel Solá
-"""
 
 import itertools
 import sys
